@@ -8,7 +8,9 @@ Solutions are stored in the **solutions** directory. Some solutions are partial,
 
 See short descriptions for every task below:
 
-- **Task 1** - Design and implement the synchronization protocol based on semaphores.
+- **Task 1** - Design and implement the synchronization protocol based on semaphores
 - **Task 2** - Design and implement the synchronization protocol based on the monitors (locks, conditionals)
 - **Task 3** - Design and implement the synchronization protocol. Use the MPI library
 - **Task 4** - Design and implement the synchronization protocol. Use the MPI library. Allow only local communication (each process can communicate only with the neighboring processes)
+
+Solutions were implemented in Java programming language for problems 1 & 2 and C programming language for problems 3 & 4.
